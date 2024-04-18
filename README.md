@@ -1,8 +1,7 @@
-# 💫 About Me:
+
 👨‍💻 ¡Hola! Soy Sebastian Oaks, un desarrollador de aplicaciones web con una pasión por crear experiencias interactivas para marcas creativas. Con más de 5 años de experiencia, me especializo en el desarrollo de sitios web utilizando tecnologías como Laravel, HTML, CSS y WordPress.<br><br>💡 Mi enfoque se centra en el desarrollo de soluciones de automatización para mejorar la experiencia de usuario en sitios ecommerce y corporativos relacionados con el desarrollo audiovisual.<br><br>🛠️ Mis herramientas preferidas incluyen Laravel, Elementor, WooCommerce y Shopify, entre otras. Siempre estoy buscando aprender y mejorar en la calidad de las soluciones que desarrollo.<br><br>🌟 Actualmente, estoy emocionado de trabajar en el desarrollo de un sitio web para las Olimpiadas Deportivas organizadas por una Asociación en Chile, ¡desarrollado completamente en Laravel!<br><br>¡Conéctate conmigo para colaborar en proyectos emocionantes y creativos! ✨
 
 
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sebastian.oaks/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sebastian-oaks/) 
 
 # 💻 Tech Stack:
